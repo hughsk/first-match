@@ -1,4 +1,4 @@
-# first-match #
+# first-match [![Build Status](https://travis-ci.org/hughsk/first-match.png?branch=master)](https://travis-ci.org/hughsk/first-match?branch=master) #
 
 Finds the first element in an array that passes a callback test.
 Equivalent to [_.find()](http://underscorejs.org#find).
